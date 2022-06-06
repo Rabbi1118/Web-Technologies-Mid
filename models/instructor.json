@@ -1,0 +1,24 @@
+{
+  "instructor":[
+    {
+	 	"name":"Veronica Wilkins",
+	 	"course":"Java",
+		 "joined":"21-jan-2022"
+	},
+	{
+	  	"name":"Sergio Watkins ",
+		"course":"Full Stack Development",
+		"joined":"8-mar-2022"
+	},
+	{
+		"name":"Alfredo Daniels",
+		"course":"Graphics Design",
+		"joined":"19-dec-2021"
+	},
+	{
+		"name":"Fred Mendoza",
+		"course":"IELTS Preparation",
+		"joined":"2-jan-2022"
+	}
+  ]
+}

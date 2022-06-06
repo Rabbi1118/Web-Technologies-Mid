@@ -1,0 +1,25 @@
+/*Navbar styling*/
+
+.navbar{
+    background-color: rgb(214, 246, 255);
+}
+.navbar table{
+    width: 100%;
+    
+}
+.navbar table th{
+  border: 2px solid black;
+  width: 150px;
+}
+
+.navbar .logo{
+    text-align: center;
+    font-size: 28pt;
+    color: rgb(230, 81, 118);
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+
+/* End of Navbar styling*/

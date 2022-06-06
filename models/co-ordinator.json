@@ -1,0 +1,19 @@
+{
+  "co-ordinator":[
+    {
+	   "name":"Kelly Cole ",
+	   "joined":"20-jan-2022",
+	   "salary":20000
+	},
+	{
+		"name":"Daryl Simon ",
+		"joined":"15-dec-2021",
+		"salary":22000
+	},
+	{
+		"name":"Janie Carlson ",
+		"joined":"23-feb-2022",
+		"salary":18000
+	}
+  ]
+}

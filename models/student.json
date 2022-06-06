@@ -1,0 +1,19 @@
+{
+  "student":[
+    {
+	  "name":"Tim Watson",
+	  "address":"Lisle, Illinois(IL), 60532",
+	  "Enrolled Course":"Java, Graphics Design"
+	},
+	{
+	  "name":"Connie Robbins",
+	  "address":"Conway, Massachusetts(MA), 01341",
+	  "Enrolled Course":"Full Stack Development"
+	},
+	{
+	  "name":"Lynn Young",
+	  "address":"Sperry, Oklahoma(OK), 74073",
+	  "Enrolled Course":"Graphics Design"
+	}
+  ]
+}

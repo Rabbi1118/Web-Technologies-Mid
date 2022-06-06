@@ -1,0 +1,32 @@
+/*Registration form styling*/
+body{
+    background-color: #feffe1;
+}
+
+
+.login-area table{
+    width: 100%;
+    border: 4px solid rgb(220, 255, 62);
+    background-color: rgb(249, 255, 199);
+}
+
+.errorstyle{
+    font-size: 10pt;
+    color: red;
+}
+
+.login-area{
+    height: 500px;
+}
+.register-btn{
+    font-size: 12pt;
+}
+
+.input{
+    font-size: 12pt;
+    width: 300px;
+}
+
+label, p{
+    font-size: 11pt;
+}
